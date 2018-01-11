@@ -26,7 +26,7 @@ Application
 
 Description
     Solves a transport equation for for the concentration with diffusivity as a sum
-    molecular of turbulent part. Turbulent part is calculated from turbulent
+    of molecular and turbulent part. Turbulent part is calculated from turbulent
     viscosity and turbulent Schmidt number.
 
 \*---------------------------------------------------------------------------*/

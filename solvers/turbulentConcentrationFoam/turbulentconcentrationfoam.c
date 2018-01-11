@@ -2,11 +2,11 @@
   =========                 |
   \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
    \\    /   O peration     |
-    \\  /    A nd           | Copyright (C) 2011-2017 OpenFOAM Foundation
+    \\  /    A nd           | Copyright (C) 2011-2018 OpenFOAM Foundation
      \\/     M anipulation  |
 -------------------------------------------------------------------------------
 License
-    This file is NOT part of OpenFOAM.
+    This file is NOT part off OpenFOAM.
 
     OpenFOAM is free software: you can redistribute it and/or modify it
     under the terms of the GNU General Public License as published by
@@ -25,8 +25,8 @@ Application
     turbulentConcentrationFoam
 
 Description
-    Solves a transport equation for a pasive concentration with diffusivity as 
-    a sum of molecular and turbulent part. Turbulent part is calculated from turbulent
+    Solves a transport equation for for the concentration with diffusivity as a sum
+    molecular of turbulent part. Turbulent part is calculated from turbulent
     viscosity and turbulent Schmidt number.
 
 \*---------------------------------------------------------------------------*/

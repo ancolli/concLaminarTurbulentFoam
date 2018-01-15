@@ -1,4 +1,4 @@
-# v1.0.0
+# v1.0.2
 # concLaminarTurbulentFoam
 Script based on scalarTransportFoam in order to predict, with the help of Navier-Stokes, laminar and turbulent mass-transfer behaviour in electrochemical reactors.
 

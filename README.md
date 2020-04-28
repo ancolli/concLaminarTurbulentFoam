@@ -1,6 +1,8 @@
-# v1.0.2
+# v1.0.3
+Cite as: Journal of The Electrochemical Society 165 (2018) E81-E88 (https://iopscience.iop.org/article/10.1149/2.0971802jes/meta) doi: 10.1149/2.0971802jes
+
 # concLaminarTurbulentFoam
-Script based on scalarTransportFoam in order to predict, with the help of Navier-Stokes, laminar and turbulent mass-transfer behaviour in electrochemical reactors.
+Script based on scalarTransportFoam in order to predict, with the help of Navier-Stokes Eqs., laminar and turbulent mass-transfer behaviour in electrochemical reactors.
 
 # Disclaimer
 This offering is not approved or endorsed by OpeFOAM Foundation, producer and distributor of the OpenFOAM software via www.openfoam.org.
